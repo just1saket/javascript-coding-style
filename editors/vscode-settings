@@ -1,0 +1,12 @@
+{
+    "workbench.iconTheme": "material-icon-theme",
+    "editor.tabSize": 2,
+    "eslint.migration.2_x": "on",
+    "editor.codeActionsOnSave": {
+        "source.fixAll.eslint": true
+    },
+    "notebook.kernelProviderAssociations": [
+
+
+    ]
+}
